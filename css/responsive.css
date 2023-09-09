@@ -1,0 +1,45 @@
+@media screen and (max-width:767px) {
+
+header {
+	position: initial;
+}
+.ul-2 ul li {
+	float: left;
+	flex-wrap: wrap;
+
+}
+.ul-2 ul {
+	padding-left: 100px;
+}
+.d-flex {
+	display: inline-block;
+
+}
+.form-group input {
+	width: 46%;
+}
+.contact-icon {
+	display: inline-block;
+}
+.border-right {
+	border: none;
+}
+
+
+
+}
+@media screen and (min-width: 768px) and (max-width:991px) {
+.form-group input {
+	width: 24%;
+}
+.col-md-12 {
+	text-align: center;
+}
+.navbar {
+	margin-left: 50px;
+}
+
+
+
+
+}
